@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a citizen of London to his friend in the country.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97059</idno>
+            <idno type="STC">Wing W58A</idno>
+            <idno type="STC">ESTC R186092</idno>
+            <idno type="EEBO-CITATION">43077742</idno>
+            <idno type="OCLC">ocm 43077742</idno>
+            <idno type="VID">151857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151857)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2279:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a citizen of London to his friend in the country.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: J.W.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151857:1" rendition="simple:additions"/>
+            <head>A LETTER from a Citizen of <hi>LONDON</hi> to his Friend in the COUNTRY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Muſt number amongſt your underſerved Favours, your ſending for my thoughts concerning <hi>the Requeſt of the Citizens of</hi> London, <hi>in Common-Hall aſſembled, to their Repreſentatives in Parliament.</hi> I will not by Excuſes, tho' I might <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery juſtly, unqualify my ſelf for the performance of your Commands. You have ſo often ſhewn a ſort of Satisfaction in peruſing my Scrowls, that it is fitter for me readily to obey whatſoever you exact, than either to ſuſpect your Candour, or diſpute my own Abilities.</p>
+            <p>I have not ſo little ſenſe of Liberty, nor have I ſo little reflected how it was preſerved under the Roman Commonwealth, by the People's having, <hi>of right,</hi> a great ſhare in all things that were there tranſacted, as to think it improper for the <hi>Common-Hall</hi> of our <hi>Metropolis</hi> to intereſt themſelves, as far as by Law they may, in our Publick affairs upon every occaſion, that ſeems to them important. I know their Wealth, and how conſiderable many of them are. I remember likewiſe that had not the City interpoſed and invigorated the Parliament in the <hi>late times,</hi> notwithſtanding that they were ſo generally well inclin'd, they had done but half <hi>their Reformation-work;</hi> they had never ſecur'd their Rights and Liberties from the Deſigns of the <hi>Malignants</hi> of thoſe Days.</p>
+            <p>But after I have hinted all this in the behalf of thoſe worthy Citizens that met at <hi>Guildhall</hi> upon the twenty ninth of the laſt Month, yet I know that they themſelves will allow that they are capable of being ſometimes miſguided, that they are not <hi>Infallible</hi> in their Conjectures, and that it is poſſible that their Zeal may fly at too <hi>mean a quarry.</hi>
+            </p>
+            <p>The Aſſaſſination was ſo unnatural to our Climate, ſo contrary to the innate Bravery of Engliſh minds and ſo fenced againſt by our Laws, that all the Burroughs, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ities, and Shires of <hi>England,</hi> as well as the City of <hi>London,</hi> have long ſince expreſſed their Abhorrence of it.</p>
+            <p>But when the <hi>true Sources</hi> of the decay of our Trade and Credit are to be inquired after, I am much afraid that that inconſiderable Party of Men, the <hi>Non-Jurors,</hi> will be found as little able to bring ſuch mighty Miſcheifs about, as all thinking Men are ſure they are, by their intereſt, to bring home their King. Indeed the Cavaliers formerly were a very Large and Comprehenſive Body, included the whole Church of <hi>England,</hi> and moſt of the Nobility and Gentry; but for the Non-Jurors amongſt us, they have not four hundred Clergy-men, not ten Lawyers, nor ten Noblemen; amongſt Traders and the Yeomanry ſcarce any, and but few amongſt the Gentry. They are, if any ever was ſo, a Sect ſo ſmall for number that they need not be <hi>fear'd, nor regarded,</hi> and being uncapable of all Places of truſt and Power, are thereby incapacitated for doing any great Miſcheifs. They may bring themſelves into danger, but cannot us. And therefore it is to be wiſh'd that the Citizens may not be put upon a <hi>falſe Scent.</hi> This Game is not like that of the old Cavaliers and Malignants, and a Man may therefore Reaſonably ſuſpect that the very Men who have been able to embarraſſe things, and who for their own private ends have done it, have under-hand miſguided the Zeal of the Common-Hall to call them off from the perſuit of the <hi>true deſtroyers</hi> of their Countrey.</p>
+            <p>I will, Sir, to you recollect ſome few of thoſe Steps which I have obſerved have been taken to deſtroy us, and in which the Non-Juring handful could have no part. I don't ſet them down to purge that ſort of Men, but that I may lay before you the truth of things.</p>
+            <p>To begin with the nature of our War. Was it not our intereſt to have had our part <hi>Naval?</hi> Would not a <hi>Naval</hi> War have rather encreaſed than diminiſhed the number of our Seamen? Would not <hi>half our Taxes</hi> have built ſuch a Fleet as the World <hi>never ſaw nor could reſiſt?</hi> would not almoſt all the Expences of a <hi>Sea-War</hi> circulated at home? and conſequently could ſuch a War have ſo exhauſted us in ſuch a ſpace of time? was there any other neceſſity to give time for, and prolong, the Inſurrections in <hi>Ireland,</hi> but only that there might be a pretence to raiſe Land Forces? would not a good Fleet, and the Militia made (as it might have been) ſerviceable, have ſecured us againſt the whole World? We ought to have taken the whole <hi>Naval</hi> part upon our ſelves, and not to have tranſported one Man, or one Farthing, into Foreign Countries, and had, we warred in this manner <hi>Navally,</hi> tho' the French ſhould have over-run the Dutch upon the Continent, yet we ſhould not have need to have been afraid of theirs and the French Fleet joyned together. We can never be entirely ſafe till we are ſtrong enough for <hi>them both</hi> at Sea. Had we acted only <hi>Navally</hi> we ſhould have been ſo long before this time, and then we had had no need to be ſolicitous who has made, and who are likely to make a <hi>ſeperate Peace.</hi>
+            </p>
+            <pb facs="tcp:151857:2"/>
+            <p>But in the next place let us ſee how the Fleet we have, is managed. It has been indeed managed by an amphibious ſort of Creatures, called Land-Admirals choſen rather to look after the Houſe of Commons than our Ships. How have theſe Admirals (who have learnt to ſail, as the Vertuoſi teach Men to ſwim upon a Table) managed our Fleet? They have even Mann'd them as they could; becauſe they have Officer'd them from <hi>Locket</hi>'s and not from <hi>Wapping,</hi> amongſt <hi>the Beaux</hi> and not the <hi>Tarpaulins.</hi> But to ſpeak the Truth the Admirals, Officers, and Orders are much alike. The Folly, the Ignorance, the Corruption and Knavery of that Board has ſo long appear'd groſs; that Commiſſion has been ſo long and ſo palpably irreclaimable that honeſt Mr. <hi>Sacheverell,</hi> Sir <hi>Michael Wharton,</hi> Sir <hi>Richard Onſlow</hi> and others have one after another quitted it. They were too good Patriots to ſit and ſee the very Walls and Fortifications of this Iſland, and their Country, mouldring and tumbling down under their Adminiſtration. They ſoon ſaw it was not work for any but ſuch as had been bred up trhough all the Gradations of the Employment, and yet they found their Fellow-Commiſſioners would neither be inſtructed by, nor make uſe of, thoſe brave old Men who were the Seamen of the late times, and offer'd to ſerve under this Government. How few of Mr. <hi>Sacheverell</hi>'s Liſt of Wealthy Captains, that would have ſerv'd without pay, were taken in, is a Story that will never be forgotten, nor perhaps forgiven to the Managers of our Admiralty.</p>
+            <p>We will now come to our Trade. Have not all Advantages been given to the <hi>Dutch</hi> to undermine it? Have not Embargoes been laid upon our Merchants whllſt the <hi>Dutch</hi> have gone, and fill'd all Foreign Markets? Have not our Merchants been unſup<g ref="char:EOLhyphen"/>plyed with Convoys, and been <hi>Huff'd</hi> by the Land-Admirals when they have com<g ref="char:EOLhyphen"/>plained of it, I appeal here to many of thoſe honeſt Citizens who ſubſcribed this very <hi>Requeſt</hi> for the truth of what I ſay. Was not the Committee of Trade that the Parliament deſign'd laſt Seſſions oppos'd and defeated by Arts, and Men, that it is not ſo proper to mention? Has not an <hi>Eaſt-India</hi> Company been beſtowed, upon <hi>Scotland,</hi> the Fatality of which can never again be obviated, unleſs, as a <hi>Quaker Merchant</hi> advis'd the Houſe of Lords, our Land-Admirals be ſent thither to manage their <hi>Naval</hi> Buſineſs?</p>
+            <p>But I will proceed no farther upon this nice Point. I will not touch upon the denyal of Paſſes to our Merchants to go into <hi>France</hi> when their <hi>Eaſt-India</hi> Ships were taken, and when they had made ſuch a Bargain for them, with the French, as would have made them little or no Looſers. I will not point out who of our Neighbours bought all the beſt Commodities of thoſe Ships, nor at what Rate, nor to whom, they ſold them. It is full time to come to our Treaſure.</p>
+            <p>I will not mention thoſe prodigious private Gifts that have exhauſted it. I will omit the Order that was lately ſent to pay to the E. of <hi>P.</hi> three and Twenty Thouſand Pounds in Specie out of meer Bounty. It is not fit to particularize theſe things; becauſe the Nation was at that time, and is ſtill, ſo diſtreſſed for Money. But has it not been by reaſon of our <hi>Land Armies</hi> Abroad that ſo much of our Coin has, contrary both, to our Intereſt and our Laws, been tranſported? I remember the King deſir'd the Parliament in one of his Speeches to conſider of ſome way to prevent its Tranſportation, but I don't remember that they did much about it. Well! but has it not been with, at leaſt, the connivance of the Treaſury, Cuſtom-Houſe, and the Exciſe-Office that the little Money we had left was ſo adulterated and clipped? Could not thoſe Gentlemen, of thoſe Commiſſions at firſt, by denying to receive it for Taxes and Cuſtom, have at once ſtopp'd the currency of all clipp'd and mix'd Coin? If our Coin had not been ſo ſpoiled could our Trade have had this Stagnation?</p>
+            <p>I could have enlarged upon theſe, and run into many more Particulars <hi>very proper</hi> for ſuch a <hi>Requeſt.</hi> I could have expoſed the Inconveniences and the Rogueries of the <hi>Bank of England,</hi> and the villanous practiſe of many <hi>great Goldſmiths,</hi> and ſeveral other ſorts of Men who pretend to be Friends to the Government. I could have put down a Catalogue of <hi>pretious</hi> Men now in Office, and have ſhewed that Places have made ſome pretending Patriots worſe than thoſe they complained of in other Reigns, and from theſe Heads I could yet have diſcovered ſome more of the genuine Cauſes of our Miſeries, but I fear I have already written as much Truth as the World will bear. I have made it but too plain that it is in <hi>the Court,</hi> in <hi>the Councills,</hi> in the <hi>Treaſury,</hi> at the <hi>Admiralty,</hi> the <hi>Ex<g ref="char:EOLhyphen"/>ciſe-Office,</hi> and at the <hi>Cuſtom-Houſe,</hi> that theſe honeſt Citizens muſt find Objects worthy of their noble and well-intended Reſentments. It is the Men in great Places, and they only, who could be, and (upon baſe, ſiniſter, and ſelfiſh Deſigns) have been, great and ſucceſs<g ref="char:EOLhyphen"/>ful Plotters againſt our Trade and Credit. Nor have they done it unawares; for many Years agoe, when the Clipping and Embaſement of our Money appear'd more than uſu<g ref="char:EOLhyphen"/>al, they were forewarned by ſome honeſt and underſtanding Men, both in and out of the Houſe of Commons, what Calamities would enſue if they did not timely prevent thoſe Abuſes. That Petitions from the City may <hi>force</hi> a full Reformation in all thoſe great Poſts of Power, and may obtain all the neceſſary Laws that can ſtrengthen our Conſtitution, and that thereby <hi>Trade and England</hi> may for ever Flouriſh, will I am ſure be yours as it is the ſincere wiſh of, Sir, Your moſt Obedient Humble Servant,</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
